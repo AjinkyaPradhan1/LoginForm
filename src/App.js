@@ -1,5 +1,6 @@
 import {useState} from "react";
 import './App.css';
+import ExmapleUseEffect from "./ExampleUseEffect";
 
 function App() {
 
@@ -95,6 +96,7 @@ function App() {
       </div>
       
       <br></br>
+      <ExmapleUseEffect />
     </div>
   );
 }
