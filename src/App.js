@@ -1,6 +1,7 @@
 import {useState} from "react";
 import './App.css';
 import ExmapleUseEffect from "./ExampleUseEffect";
+import ExampleToastify from "./ExampleToastify";
 
 function App() {
 
@@ -97,6 +98,7 @@ function App() {
       
       <br></br>
       <ExmapleUseEffect />
+      <ExampleToastify />
     </div>
   );
 }
